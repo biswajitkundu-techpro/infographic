@@ -1,0 +1,42 @@
+@font-face {
+    font-family: 'banana_groteskbold';
+    src: url('font/bananagrotesk-bold.woff2') format('woff2'),
+         url('font/bananagrotesk-bold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'banana_groteskextralight';
+    src: url('font/bananagrotesk-extralight.woff2') format('woff2'),
+         url('font/bananagrotesk-extralight.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'banana_grotesklight';
+    src: url('font/bananagrotesk-light.woff2') format('woff2'),
+         url('font/bananagrotesk-light.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'banana_groteskmedium';
+    src: url('font/bananagrotesk-medium.woff2') format('woff2'),
+         url('font/bananagrotesk-medium.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'banana_groteskregular';
+    src: url('font/bananagrotesk-regular.woff2') format('woff2'),
+         url('font/bananagrotesk-regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
